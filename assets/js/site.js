@@ -4,11 +4,9 @@
 myFunction()
 
 function myFunction(myData){
-if (myData) {
+
     console.log(myData);
-}else{
-console.log('no data sendt');
-}
+
 
 }
 
